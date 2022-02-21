@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71b0541b-74ec-4504-8e96-95e724c3cbab" name="Default Changelist" comment="" />
+    <list default="true" id="71b0541b-74ec-4504-8e96-95e724c3cbab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,7 @@
       <recent name="C:\Users\USER\Documents\GitHub\ps-study-hongjw\pythonproject1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.다항식 연산">
+  <component name="RunManager" selected="Python.main">
     <configuration name="다항식 연산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonproject1" />
       <option name="INTERPRETER_OPTIONS" value="" />
